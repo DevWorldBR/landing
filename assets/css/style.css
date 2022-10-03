@@ -401,3 +401,18 @@ body {
   background: var(--bg-color-button-2);
   color: var(--font-color_3);
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; 
+}
+
+footer a {
+  list-style: none;
+  color: rgb(21, 52, 192);
+  text-align: center;
+  text-decoration: none;
+  margin-left: 1rem;
+}
